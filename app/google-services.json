@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221536994797",
+    "firebase_url": "https://myapplication-ca58d.firebaseio.com",
+    "project_id": "myapplication-ca58d",
+    "storage_bucket": "myapplication-ca58d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221536994797:android:93e613dacde00f80",
+        "android_client_info": {
+          "package_name": "com.smredlabs.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221536994797-mioeic801ktjkufc71rejva962uvumcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smredlabs.myapplication",
+            "certificate_hash": "303e446f9f99afa276cc8ecd55ec4f776d993056"
+          }
+        },
+        {
+          "client_id": "221536994797-bcbdr88bi1on1shfm8q723lld7agmul7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpjz_Hi2gmQnIFratHTPw7206TkxfoEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221536994797-bcbdr88bi1on1shfm8q723lld7agmul7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
